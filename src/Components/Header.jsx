@@ -10,7 +10,7 @@ import logo from '../assets/logo.svg';
 
 const Header = () => {
     return (
-        <Navbar color='dark' dark={true} full={true} expand="lg" container='fluid'>
+        <Navbar color='dark' dark={true} expand="lg" container='fluid'>
             <NavbarBrand>
                 <img
                     className='App-logo'
