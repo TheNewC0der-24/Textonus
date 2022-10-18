@@ -10,7 +10,41 @@
         0px 0px 17.9px rgba(0, 0, 0, 0.042),
         0px 0px 33.4px rgba(0, 0, 0, 0.05),
         0px 0px 80px rgba(0, 0, 0, 0.07);
+    border-radius: 0 !important;
 }
+
+.text-field {
+    text-decoration: none !important;
+    outline: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+}
+
+.text-field:focus {
+    border-color: #000 !important;
+    text-decoration: none !important;
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+
+.saved-note {
+    border: 1px solid #ced4da !important;
+    padding: 0.375rem 0.75rem;
+    background-color: #ecedef;
+}
+
+Button {
+    border-radius: 0 !important;
+}
+
+.icon {
+    transform: translateY(-4px) !important;
+}
+
+.ant-message .anticon {
+    transform: translateY(-3px) !important;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
     .App-logo {
