@@ -6,7 +6,7 @@ Voice to Text Online Notepad Professional, Accurate &amp; Free Speech Recognitio
 ## Feature 
 * Your Sppech convert into text
 * Accurate &amp; Free Speech Recognition
-* You can copt the Preview Text
+* You can copy the Preview Text
 * Text is stored in localStorage
 
 ## Built With 
